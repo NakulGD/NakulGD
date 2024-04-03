@@ -10,7 +10,7 @@
 
 <!-- Brief Introduction -->
 ## 🙋‍♂️ About Me
-Hey! I’m a Computer Engineering student currently studying at UBC Vancouver, where I dive deep into the nuts and bolts of both hardware and software. I have a knack for solving complex problems and am particularly passionate about developing scalable systems. My journey through the maze of coding and development has been marked by the myriad projects I’ve embarked on - from the challenging to the intriguing. Whether it’s wrangling with synchronization mechanisms in operating systems, simulating distance vector routing algorithms, or even reinventing TCP using UDP for fun, I’ve had my hands in many pies. And while my academic endeavors keep me on my toes, I’m always on the lookout for the next exciting project to tackle.
+Hey! I’m a Computer Engineering student currently studying at UBC Vancouver, where I dive deep into the nuts and bolts of both hardware and software. I have a knack for solving complex problems and am particularly passionate about developing scalable systems. My journey through the maze of coding and development has been marked by the numerous projects I’ve embarked on - from the challenging to the intriguing. Whether it’s wrangling with low-level programming in C or ARM Assembly or exploring the creative boundaries of front-end development, I’ve had the oppurtunity to push my limits and expand my horizons. As I continue the closing phase of my academic journey, I’m always on the lookout for the next exciting project to tackle.
 
 <!-- Skills Badges -->
 ## 💻 Technologies & Tools
