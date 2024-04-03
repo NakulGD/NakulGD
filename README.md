@@ -45,7 +45,7 @@ While the academic guidelines restrict me from showcasing all my projects, I’v
 - Developing a distance vector routing algorithm/simulation in Python,
 - And building a virtual memory system using multi-level page tables and swap pages in C.
 
-These projects have sharpened my skills and allowed me to apply theoretical knowledge in practical, often complex scenarios. Stay tuned for more public repositories as I continue to translate these experiences into shareable formats!
+These projects have sharpened my skills and allowed me to apply theoretical knowledge in practical, often complex scenarios. Stay tuned for more public repositories as I continue to translate these experiences into shareable formats! For now however, feel free to check out my already public project repos!
 
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
