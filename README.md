@@ -2,7 +2,7 @@
 <h1 align="center">Hey there, I'm Nakul! 👋</h1>
 <p align="center">
   <a href="https://github.com/NakulGD">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Eager+Developer+&+Innovator;Perpetually+Exploring+New+Tech&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Eager+Developer+and+Innovator;Perpetually+Exploring+New+Tech&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -14,16 +14,28 @@ Hey! I’m a Computer Engineering student currently studying at UBC Vancouver, w
 
 <!-- Skills Badges -->
 ## 💻 Technologies & Tools
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+<p align="center">
+  <!-- C -->
+  <img alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <!-- Java -->
+  <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <!-- Python -->
+  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png"/>
+  <!-- JavaScript -->
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <!-- Docker -->
+  <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <!-- React -->
+  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <!-- Node.js -->
+  <img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <!-- Express.js -->
+  <img alt="Express.js" src="https://img.icons8.com/color/48/000000/express.png"/>
+  <!-- SQL Database -->
+  <img alt="SQL Database" src="https://img.icons8.com/color/48/000000/database.png"/>
+  <!-- MongoDB -->
+  <img alt="MongoDB" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
 
 <!-- Projects Section -->
 ## 📚 Projects
@@ -40,8 +52,9 @@ These projects have sharpened my skills and allowed me to apply theoretical know
 Feel free to reach out if you’re interested in collaborating, have questions about my work, or just want to chat about technology and engineering!
 - 💌 Email: [nakulgd@gmail.com](mailto:nakulgd@gmail.com)
 - 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/nakuldharan)
+- 💻 Website: (Currently undergoing major improvements/changes - but my old prototype website is still active): [nakuldharan.com](https://www.nakuldharan.com/)
 
 <!-- Footer -->
 <footer align="center">
-  <p>Designed with ❤️ by Nakul Dharan</p>
+  <p>Thank you for stopping by! -Nakul Dharan <3</p>
 </footer>
